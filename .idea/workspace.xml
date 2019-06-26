@@ -1,0 +1,1183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fb8383c-b4bf-4af5-9221-4826faeea5de" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/data/archiveCompany.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/archiveCompany.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/followers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/followers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ufp/esocial/api/gui/create/PersonCreateGuiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ufp/esocial/api/gui/create/PersonCreateGuiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ufp/esocial/api/gui/user/GuiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ufp/esocial/api/gui/user/GuiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ufp/esocial/api/gui/user/usergui.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ufp/esocial/api/gui/user/usergui.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ufp/esocial/api/util/FileUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ufp/esocial/api/util/FileUtil.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="eSocial" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/gui/user/GuiController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11661">
+              <caret line="570" column="25" selection-start-line="570" selection-start-column="17" selection-end-line="570" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/service/Database.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2">
+              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+              <folding>
+                <element signature="e#1552#1553#0" expanded="true" />
+                <element signature="e#1583#1584#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/EdgeWeightedGraph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1488">
+              <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/followers.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>main</find>
+      <find>scrol</find>
+      <find>button</find>
+      <find>system.out</find>
+      <find>acer</find>
+      <find>system</find>
+      <find>Group</find>
+      <find>AlertT</find>
+      <find>add</find>
+      <find>edit</find>
+      <find>level</find>
+      <find>Level</find>
+      <find>Digrap</find>
+      <find>amizade</find>
+      <find>handleAddFollowerEvent</find>
+      <find>addFr</find>
+      <find>alert</find>
+      <find>alertType.cOnfir</find>
+      <find>Confirmation</find>
+      <find>save</find>
+      <find>initial</find>
+      <find>handleOnEditYEvent</find>
+      <find>amizadeS</find>
+      <find>saveperso</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Asus\IdeaProjects\eSocial\src\edu\ufp\esocial\api\gui</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/util/filter/CompanyFilter.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/util/filter/MeetingFilter.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/model/Competence.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/model/Meeting.java" />
+        <option value="$PROJECT_DIR$/data/archivePerson.txt" />
+        <option value="$PROJECT_DIR$/data/archiveCompetence.txt" />
+        <option value="$PROJECT_DIR$/data/archiveCompany.txt" />
+        <option value="$PROJECT_DIR$/data/archiveMeeting.txt" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/gui/GuiController.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/gui/esocialgui.fxml" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/gui/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/edu/GuiStart.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/gui/login.fxml" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/gui/register/register.fxml" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/gui/login/login.fxml" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/gui/user/esocialgui.fxml" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/service/CompetenceService.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/service/impl/CompetenceServiceImpl.java" />
+        <option value="$PROJECT_DIR$/data/personList.txt" />
+        <option value="$PROJECT_DIR$/data/companyList.txt" />
+        <option value="$PROJECT_DIR$/data/meetingList.txt" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/model/Entity.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/model/Company.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/util/Point.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/model/Person.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/gui/GuiStart.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/util/graphs/FriendshipConnection.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/Test.java" />
+        <option value="$PROJECT_DIR$/src/edu/princeton/cs/algs4/Edge.java" />
+        <option value="$PROJECT_DIR$/src/edu/princeton/cs/algs4/EdgeWeightedGraph.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/Server.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/gui/create/personcreategui.fxml" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/service/impl/PersonServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/service/CompanyService.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/service/MeetingService.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/service/PersonService.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/service/impl/MeetingServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/service/impl/CompanyServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/gui/edit/personeditgui.fxml" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/gui/edit/PersonEditGuiController.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/service/Database.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/model/Follower.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/util/Util.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/util/graphs/FollowersUtil.java" />
+        <option value="$PROJECT_DIR$/src/edu/princeton/cs/algs4/Digraph.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/gui/user/usergui.fxml" />
+        <option value="$PROJECT_DIR$/data/followers.txt" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/gui/create/PersonCreateGuiController.java" />
+        <option value="$PROJECT_DIR$/data/personBin.dat" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/util/FileUtil.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/esocial/api/gui/user/GuiController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="979" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="eSocial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eSocial" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eSocial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eSocial" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eSocial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eSocial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eSocial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eSocial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eSocial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eSocial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eSocial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eSocial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eSocial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eSocial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+              <item name="create" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eSocial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eSocial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eSocial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eSocial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eSocial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eSocial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eSocial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eSocial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eSocial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eSocial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eSocial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eSocial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eSocial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eSocial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="graphs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560616489274" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LP2JavaFX" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\IdeaProjects\eSocial\src\edu\ufp\esocial\api\gui\interface" />
+      <recent name="C:\Users\Asus\IdeaProjects\eSocial\src\edu\ufp\esocial\api\gui\login" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Server">
+    <configuration name="GuiStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.ufp.esocial.api.gui.GuiStart" />
+      <module name="eSocial" />
+      <shortenClasspath name="NONE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ufp.esocial.api.gui.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.ufp.esocial.api.Server" />
+      <module name="eSocial" />
+      <shortenClasspath name="NONE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ufp.esocial.api.*" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GuiStart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fb8383c-b4bf-4af5-9221-4826faeea5de" name="Default Changelist" comment="" />
+      <created>1552676786004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552676786004</updated>
+      <workItem from="1552676788536" duration="319000" />
+      <workItem from="1552677413495" duration="3063000" />
+      <workItem from="1552688740131" duration="5919000" />
+      <workItem from="1552920296234" duration="53000" />
+      <workItem from="1553248654892" duration="2476000" />
+      <workItem from="1553529796856" duration="573000" />
+      <workItem from="1553625516986" duration="3680000" />
+      <workItem from="1553783402118" duration="23000" />
+      <workItem from="1553795017113" duration="510000" />
+      <workItem from="1553795671544" duration="94000" />
+      <workItem from="1553796982419" duration="685000" />
+      <workItem from="1553797708662" duration="7696000" />
+      <workItem from="1554153630356" duration="4857000" />
+      <workItem from="1554218796380" duration="919000" />
+      <workItem from="1554307462224" duration="336000" />
+      <workItem from="1554372190345" duration="52000" />
+      <workItem from="1554374389688" duration="927000" />
+      <workItem from="1554383350677" duration="597000" />
+      <workItem from="1554397995743" duration="43000" />
+      <workItem from="1554398060097" duration="6783000" />
+      <workItem from="1554730697770" duration="385000" />
+      <workItem from="1554913782615" duration="1447000" />
+      <workItem from="1554983829172" duration="827000" />
+      <workItem from="1554991240288" duration="17000" />
+      <workItem from="1555002275861" duration="6184000" />
+      <workItem from="1555008525472" duration="8330000" />
+      <workItem from="1555071994276" duration="979000" />
+      <workItem from="1555102191424" duration="2519000" />
+      <workItem from="1555153136897" duration="598000" />
+      <workItem from="1555253835406" duration="393000" />
+      <workItem from="1555258474061" duration="9590000" />
+      <workItem from="1555332683230" duration="603000" />
+      <workItem from="1555358877804" duration="123000" />
+      <workItem from="1555687172375" duration="2493000" />
+      <workItem from="1555709982583" duration="922000" />
+      <workItem from="1556377712608" duration="21000" />
+      <workItem from="1558085742579" duration="64000" />
+      <workItem from="1558365490534" duration="6656000" />
+      <workItem from="1558374237124" duration="5865000" />
+      <workItem from="1558390573317" duration="1142000" />
+      <workItem from="1558445461297" duration="1721000" />
+      <workItem from="1558447680969" duration="1080000" />
+      <workItem from="1558448814795" duration="4338000" />
+      <workItem from="1558453385124" duration="1796000" />
+      <workItem from="1558455222239" duration="2948000" />
+      <workItem from="1558458201244" duration="2560000" />
+      <workItem from="1558461168537" duration="1530000" />
+      <workItem from="1558468109186" duration="1157000" />
+      <workItem from="1558541240538" duration="2194000" />
+      <workItem from="1558604080715" duration="13919000" />
+      <workItem from="1558647894060" duration="18580000" />
+      <workItem from="1558706696866" duration="621000" />
+      <workItem from="1558718551802" duration="221000" />
+      <workItem from="1558730568950" duration="13946000" />
+      <workItem from="1558774949921" duration="221000" />
+      <workItem from="1558876634917" duration="4181000" />
+      <workItem from="1558965733795" duration="2508000" />
+      <workItem from="1558973812709" duration="14426000" />
+      <workItem from="1559040771488" duration="146000" />
+      <workItem from="1559055389663" duration="632000" />
+      <workItem from="1559237004117" duration="1202000" />
+      <workItem from="1559312686540" duration="20076000" />
+      <workItem from="1559482726562" duration="25098000" />
+      <workItem from="1559589066088" duration="1293000" />
+      <workItem from="1559930597157" duration="8850000" />
+      <workItem from="1559943911417" duration="20000" />
+      <workItem from="1560615907329" duration="682000" />
+    </task>
+    <task id="LOCAL-00001" summary="changes">
+      <created>1552696070169</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552696070169</updated>
+    </task>
+    <task id="LOCAL-00002" summary="something done">
+      <created>1553803358402</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553803358402</updated>
+    </task>
+    <task id="LOCAL-00003" summary="meeting + competence filters&#10;&amp;&#10;load/read file meeting &amp; competence">
+      <created>1554159987289</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1554159987290</updated>
+    </task>
+    <task id="LOCAL-00004" summary="anything">
+      <created>1554222395995</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554222395995</updated>
+    </task>
+    <task id="LOCAL-00005" summary="anything">
+      <created>1554399753755</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1554399753756</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Meeting, Date class's changed&#10;Meeting load file impl">
+      <created>1554404792558</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1554404792558</updated>
+    </task>
+    <task id="LOCAL-00007" summary="- test fuctions added&#10;- server class updated&#10;- filters for company and meeting updated&#10;- services updated&#10;- models updated (except company)">
+      <created>1555071669606</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1555071669607</updated>
+    </task>
+    <task id="LOCAL-00008" summary="updated Test class &amp; Server + Person changes">
+      <created>1555104669642</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1555104669642</updated>
+    </task>
+    <task id="LOCAL-00009" summary="updated Test class &amp; Server + Person changes">
+      <created>1555261673045</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1555261673050</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Deletes &amp; more adds">
+      <created>1555273931041</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1555273931041</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Deletes &amp; more adds">
+      <created>1555688422695</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1555688422695</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Deletes &amp; more adds">
+      <created>1555689048711</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1555689048711</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Deletes &amp; more adds">
+      <created>1555710303407</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1555710303407</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Gui Almost Done">
+      <created>1558743048531</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1558743048531</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Final Changes on GUI">
+      <created>1558999812260</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1558999812260</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Final Changes on GUI">
+      <created>1559347732158</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1559347732158</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Final Changes on GUI">
+      <created>1559512746711</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1559512746712</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Final Changes on GUI">
+      <created>1559515047767</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1559515047767</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="234709000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.21946308" />
+      <window_info id="Structure" order="1" sideWeight="0.50141644" side_tool="true" weight="0.24630873" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50141644" side_tool="true" weight="0.20469798" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32808024" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5028329" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.3286119" />
+      <window_info anchor="bottom" id="Tail" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3295302" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.18322147" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50141644" side_tool="true" weight="0.20469798" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6572238" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.3286119" />
+      <window_info anchor="bottom" id="Tail" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3295302" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/esocial" />
+    </ignored-roots>
+    <MESSAGE value="changes" />
+    <MESSAGE value="something done" />
+    <MESSAGE value="meeting + competence filters&#10;&amp;&#10;load/read file meeting &amp; competence" />
+    <MESSAGE value="anything" />
+    <MESSAGE value="Meeting, Date class's changed&#10;Meeting load file impl" />
+    <MESSAGE value="- test fuctions added&#10;- server class updated&#10;- filters for company and meeting updated&#10;- services updated&#10;- models updated (except company)" />
+    <MESSAGE value="updated Test class &amp; Server + Person changes" />
+    <MESSAGE value="Deletes &amp; more adds" />
+    <MESSAGE value="Gui Almost Done" />
+    <MESSAGE value="Final Changes on GUI" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Changes on GUI" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data/companyList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/meetingList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="63" lean-forward="true" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/model/Competence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/model/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1972">
+          <caret line="146" column="19" selection-start-line="146" selection-start-column="19" selection-end-line="146" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/model/Job.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/util/filter/CompanyFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/util/InvalidParsingStringException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/FILES/LigacaoAmizade.java" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/util/graphs/FriendshipConnection.java" />
+    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/Edge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="55" column="23" lean-forward="true" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
+          <folding>
+            <element signature="e#1913#1914#0" expanded="true" />
+            <element signature="e#1937#1938#0" expanded="true" />
+            <element signature="e#1986#1987#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/archivePerson.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/personList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="99" column="29" lean-forward="true" selection-start-line="99" selection-start-column="29" selection-end-line="99" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/friendships.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/Bag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/model/Entity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/util/DatabaseST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/util/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/service/CompetenceService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/service/impl/CompetenceServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="50" column="80" selection-start-line="50" selection-start-column="80" selection-end-line="50" selection-end-column="80" />
+          <folding>
+            <element signature="e#1569#1570#0" expanded="true" />
+            <element signature="e#1647#1648#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/service/MeetingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/service/impl/MeetingServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/model/Company.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/service/impl/CompanyServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="56" column="29" lean-forward="true" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
+          <folding>
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/time/LocalDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="106" column="6" lean-forward="true" selection-start-line="106" selection-start-column="6" selection-end-line="106" selection-end-column="6" />
+          <folding>
+            <element signature="e#31780#31781#0" expanded="true" />
+            <element signature="e#31808#31809#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/util/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/gui/create/personcreategui.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="89" column="110" lean-forward="true" selection-start-line="89" selection-start-column="110" selection-end-line="89" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/gui/edit/PersonEditGuiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/util/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/gui/edit/personeditgui.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="599">
+          <caret line="79" column="62" selection-start-line="79" selection-start-column="57" selection-end-line="79" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/gui/GuiStart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/personBin.dat" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/gui/user/usergui.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="153" column="65" selection-start-line="153" selection-start-column="65" selection-end-line="153" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/personBin.bin">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="24" column="65" lean-forward="true" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/util/FileUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="179" column="5" lean-forward="true" selection-start-line="179" selection-start-column="5" selection-end-line="179" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/model/Follower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/util/graphs/FollowersUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/util/filter/MeetingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/model/Meeting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="78" column="46" selection-start-line="78" selection-start-column="46" selection-end-line="78" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/service/impl/PersonServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="44" column="13" lean-forward="true" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/gui/create/PersonCreateGuiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="166" column="16" selection-start-line="166" selection-start-column="16" selection-end-line="166" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#addEmpresaAnteriorEvent#0;class#PersonCreateGuiController#0" />
+            <element signature="method#addAreaInteresseEvent#0;class#PersonCreateGuiController#0" />
+            <element signature="method#handleLoadPersonFileEvent#0;class#PersonCreateGuiController#0" />
+            <element signature="method#handleLoadMeetingFileEvent#0;class#PersonCreateGuiController#0" />
+            <element signature="method#handleLoadCompanyFileEvent#0;class#PersonCreateGuiController#0" />
+            <element signature="method#handleLoadCompetenceFileEvent#0;class#PersonCreateGuiController#0" />
+            <element signature="method#handleAcercaEvent#0;class#PersonCreateGuiController#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/service/CompanyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/service/PersonService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/service/GenericService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/Digraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="61" column="34" lean-forward="true" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#6041#6042#0" expanded="true" />
+            <element signature="e#6065#6066#0" expanded="true" />
+            <element signature="e#6213#6214#0" expanded="true" />
+            <element signature="e#6237#6238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="105" column="30" selection-start-line="105" selection-start-column="30" selection-end-line="105" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/gui/user/GuiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11661">
+          <caret line="570" column="25" selection-start-line="570" selection-start-column="17" selection-end-line="570" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/esocial/api/service/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding>
+            <element signature="e#1552#1553#0" expanded="true" />
+            <element signature="e#1583#1584#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/EdgeWeightedGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1488">
+          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/followers.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>aquafx</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>eSocial</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>aquafx-0.1-complete</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

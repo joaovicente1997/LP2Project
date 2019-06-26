@@ -1,0 +1,6 @@
+Competence { title= Programacao, area= Inf, description= programacao, acquiredDate= 14/04/2019->21:06, level= A }
+Competence { title= Programacao, area= Inf, description= programacao, acquiredDate= 19/04/2019->22:44, level= A }
+Competence { title= Programacao, area= Inf, description= programacao, acquiredDate= 19/04/2019->22:45, level= A }
+Competence { title= Programacao, area= Inf, description= programacao, acquiredDate= 19/04/2019->22:48, level= A }
+Competence { title= Programacao, area= Inf, description= programacao, acquiredDate= 19/04/2019->22:48, level= A }
+Competence { title= Programacao, area= Inf, description= programacao, acquiredDate= 19/04/2019->22:50, level= A }

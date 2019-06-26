@@ -1,0 +1,6 @@
+Meeting { name= Hello World, location= null, price= 0.0, startDate= 14/04/2019->21:30, endDate= 14/04/2019->21:30, creator= null }
+Meeting { name= Programming 2019, location= Point@{152.489084267587, 186.64570631081457}, price= 0.0, startDate= 1996/08/8->17:10, endDate= 1996/08/8->19:00, creator= Company{id='50', name='Universidade Fernando Pessoa', location='null'} }
+Meeting { name= Programming 2019, location= Point@{483.08210751636824, 15.65385094291627}, price= 0.0, startDate= 1996/08/8->17:10, endDate= 1996/08/8->19:00, creator= Company{id='50', name='Universidade Fernando Pessoa', location='null'} }
+Meeting { name= Programming 2019, location= Point@{647.5429894864538, 78.14293773146875}, price= 0.0, startDate= 1996/08/8->17:10, endDate= 1996/08/8->19:00, creator= Company{id='50', name='Universidade Fernando Pessoa', location='null'} }
+Meeting { name= Programming 2019, location= Point@{982.7422075767404, 138.04357483496855}, price= 0.0, startDate= 1996/08/8->17:10, endDate= 1996/08/8->19:00, creator= Company{id='50', name='Universidade Fernando Pessoa', location='null'} }
+Meeting { name= Programming 2019, location= Point@{618.5765131570174, 815.8349178580446}, price= 0.0, startDate= 1996/08/8->17:10, endDate= 1996/08/8->19:00, creator= Company{id='50', name='Universidade Fernando Pessoa', location='null'} }

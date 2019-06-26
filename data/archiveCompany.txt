@@ -1,0 +1,11 @@
+Company { name= Universidade Fernando Pessoa, location= null }
+Company { name= Universidade Fernando Pessoa, location= null }
+Company { name= Universidade Fernando Pessoa, location= null }
+Company { name= Universidade Fernando Pessoa, location= null }
+Company { name= Universidade Fernando Pessoa, location= null }
+Company { name= Universidade Fernando Pessoa, location= null }
+Company { name= Smart Solutions, location= (0.0; 0.0) }
+Company { name= Red Lighting, location= (0.0; 0.0) }
+Company { name= Moonlimited, location= (0.0; 0.0) }
+Company { name= UFP, location= (50.0; 105.0) }
+Company { name= Red Lighting, location= (0.5; 0.0) }

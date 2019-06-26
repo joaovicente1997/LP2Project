@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="aquafx">
+    <output-path>$PROJECT_DIR$/out/artifacts/aquafx</output-path>
+    <root id="archive" name="aquafx.jar">
+      <element id="library" level="project" name="aquafx-0.1" />
+      <element id="module-output" name="eSocial" />
+    </root>
+  </artifact>
+</component>
